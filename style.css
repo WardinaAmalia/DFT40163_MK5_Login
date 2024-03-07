@@ -36,18 +36,18 @@
     transform: translateY(-50%);
     color: #888;
 }
-.input[type="text"],
-.input[type="password"] {
-    padding-left: 30px;
+
+.tng{
+    padding-left: 10px;
     width: 100%;
     height: 40px;
     border: 1px solid #ddd;
     border-radius: 4px;
     box-sizing: border-box;
 }
-.input[type="checkbox"] {
+.checkbox {
     margin-right: 10px;
-    align: left;
+   
 }
 .button {
     width: 100%;
